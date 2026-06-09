@@ -9,7 +9,7 @@
 ---
 
 # Part 1: Google Earth Engine App
-**GEE Web App:** -https://code.earthengine.google.com/b769453c4bdefdee7b5fb51607b089bb
+**GEE Web App:**
                  -https://s3716612.projects.earthengine.app/view/gee--melbourne-summer-2025-web-app  
 
 ---
